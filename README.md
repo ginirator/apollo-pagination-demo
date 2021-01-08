@@ -1,3 +1,3 @@
-# Apollo Pagination Demo
+# GraphQL Pagination with Cursors in Apollo React
 
-- Video: Coming soon!
+Video: https://www.youtube.com/watch?v=lNtQbn7qN-8
